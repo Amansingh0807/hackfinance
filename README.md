@@ -20,16 +20,16 @@ Managing personal finances can be **time-consuming and complex**, especially for
 OptEx simplifies this by **automating financial tracking**, offering **AI-driven insights**, and providing a **seamless tax-ready experience**.
 
 ## ✨ Key Features
-✅ **Expense & Income Tracking** – Manually or via **AI-powered receipt scanning** 📄
-✅ **Multi-Account Support** – Track multiple accounts with a **default account option** 🔄
-✅ **Real-Time Currency Converter** – Convert & manage multiple currencies 🌎💱
-✅ **Smart Budgeting & Alerts** – Get AI-based **budget recommendations** & alerts 📊
-✅ **Savings Goal Tracking** – Set monthly savings goals & receive alerts on completion 🎯
-✅ **Investment Insights** – AI-driven **investment tracking & recommendations** 📈
-✅ **Automated Reports & ITR Assistance** – Generate **tax-ready financial summaries** 📝
-✅ **UPI Integration & Real-Time Expense Syncing** – Auto-track expenses from **UPI payments** 💳
-✅ **Security & Bot Protection** – Implemented **Arcjet bot detection** 🛡️
-✅ **Email Notifications** – Automated alerts using **Inngest & Twilio SendGrid** ✉️
+✅ **Expense & Income Tracking** – Manually or via **AI-powered receipt scanning** 📄.
+✅ **Multi-Account Support** – Track multiple accounts with a **default account option** 🔄.
+✅ **Real-Time Currency Converter** – Convert & manage multiple currencies 🌎💱.
+✅ **Smart Budgeting & Alerts** – Get AI-based **budget recommendations** & alerts 📊.
+✅ **Savings Goal Tracking** – Set monthly savings goals & receive alerts on completion 🎯.
+✅ **Investment Insights** – AI-driven **investment tracking & recommendations** 📈.
+✅ **Automated Reports & ITR Assistance** – Generate **tax-ready financial summaries** 📝.
+✅ **UPI Integration & Real-Time Expense Syncing** – Auto-track expenses from **UPI payments** 💳.
+✅ **Security & Bot Protection** – Implemented **Arcjet bot detection** 🛡️.
+✅ **Email Notifications** – Automated alerts using **Inngest & Twilio SendGrid** ✉️.
 
 ## 🏗️ Tech Stack
 ### **Frontend & Backend**
