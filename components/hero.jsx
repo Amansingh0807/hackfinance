@@ -101,7 +101,7 @@ const HeroSection = () => {
                   <ul className="mt-4 space-y-2">
                     {plan.services.map((item, idx) => (
                       <li className="flex items-center" key={`${item}-${idx}`}>
-                        <span className="text-green-500 mr-2">✔️</span> {item}
+                        <span className="text-green-500 mr-2"></span> {item}
                       </li>
                     ))}
                   </ul>
