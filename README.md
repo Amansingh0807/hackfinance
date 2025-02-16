@@ -25,11 +25,11 @@ OptEx simplifies this by **automating financial tracking**, offering **AI-driven
 3. **Real-Time Currency Converter** – Convert & manage multiple currencies 🌎💱.
 4. **Smart Budgeting & Alerts** – Get AI-based **budget recommendations** & alerts 📊.
 5. **Savings Goal Tracking** – Set monthly savings goals & receive alerts on completion 🎯.
- **Investment Insights** – AI-driven **investment tracking & recommendations** 📈.
- **Automated Reports & ITR Assistance** – Generate **tax-ready financial summaries** 📝.
- **UPI Integration & Real-Time Expense Syncing** – Auto-track expenses from **UPI payments** 💳.
- **Security & Bot Protection** – Implemented **Arcjet bot detection** 🛡️.
- **Email Notifications** – Automated alerts using **Inngest & Twilio SendGrid** ✉️.
+6. **Investment Insights** – AI-driven **investment tracking & recommendations** 📈.
+7. **Automated Reports & ITR Assistance** – Generate **tax-ready financial summaries** 📝.
+8. **UPI Integration & Real-Time Expense Syncing** – Auto-track expenses from **UPI payments** 💳.
+9. **Security & Bot Protection** – Implemented **Arcjet bot detection** 🛡️.
+10. **Email Notifications** – Automated alerts using **Inngest & Twilio SendGrid** ✉️.
 
 ## 🏗️ Tech Stack
 ### **Frontend & Backend**
