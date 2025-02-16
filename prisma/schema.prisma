@@ -17,7 +17,7 @@ model User {
   transactions  Transaction[]
   accounts      Account[]
   budgets       Budget[]
-  savings       Saving[]
+  savings       Savings[]
   createdAt     DateTime      @default(now())
   updatedAt     DateTime      @updatedAt
 
@@ -41,7 +41,7 @@ model Account {
   @@map("accounts")
 }
 
-model Saving {
+model Savings {
   id          String   @id @default(uuid())
   goalAmount  Decimal
   currentAmount Decimal @default(0)
